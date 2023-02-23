@@ -9,7 +9,9 @@
 
 
 4- Add Product Model and show it in admin (only) [name - price]
-http://127.0.0.1:8000/admin/
+
+[ http://127.0.0.1:8000/admin/ ]
+
 username: abdo
 password : 246800#
 

@@ -11,6 +11,12 @@
 
 # 4- Show all Category Type:
     [ http://127.0.0.1:8080/products/category/ ]
+    
+# 5- Add Product Model and show it in admin
+    [ http://127.0.0.1:8080/admin/ ]
+    - [Admin] 
+        - username : abdo
+        - password : 246800#
 
 # 5- Get Products :
 - Orderd by price [ http://127.0.0.1:8080/products/category_type/<slug:slug>/ ]

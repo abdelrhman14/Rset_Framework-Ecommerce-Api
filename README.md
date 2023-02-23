@@ -20,15 +20,18 @@
 
 # 6- Get Products :
 - Orderd by price [ http://127.0.0.1:8080/products/category_type/<slug:slug>/ ]
-EX:
+
+    EX:
     [ http://127.0.0.1:8080/products/category_type/  / ]
 
 - Search By name: [ http://127.0.0.1:8080/products/product_filter/<slug:slug>/?name=]
-EX: 
-    [ http://127.0.0.1:8080/products/product_filter/  /?name=  ]
 
+    EX: 
+    [ http://127.0.0.1:8080/products/product_filter/  /?name=  ]
+    
 # 7- Add to cart :
     [ http://127.0.0.1:8080/products/add-to-cart/<slug:slug>/]
+    
 EX:
     [ http://127.0.0.1:8080/products/add-to-cart/  /]
 

@@ -1,8 +1,4 @@
-from random import choice, choices
-from unittest import result
-from django import forms
 import django_filters
-from matplotlib import widgets
 
 from .models import *
 

@@ -15,14 +15,17 @@ password : 246800#
 
 5- Get Product and the Query Shoud:
 Order By Price: [ http://127.0.0.1:8000/products/category_type/slug/ ]
+
 EX :
 [ http://127.0.0.1:8000/products/category_type/mobiles-tablets/ ]
 
 Search By Name: [http://127.0.0.1:8000/products/product_filter/slug/?name= ]
+
 Ex :
 [ http://127.0.0.1:8000/products/product_filter/mobiles-tablets/?name=Samsung Galaxy A13 ]
 
 6 - Add To Cart: [ http://127.0.0.1:8000/products/add-to-cart/slug/ ]
+
 Ex:
 [ http://127.0.0.1:8000/products/add-to-cart/samsung-galaxy-a13/ ]
  
